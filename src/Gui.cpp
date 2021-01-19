@@ -1,8 +1,4 @@
 #include "Gui.hpp"
-#include "wx/defs.h"
-#include "wx/event.h"
-#include "wx/gtk/button.h"
-#include "wx/sizer.h"
 
 // TODO: fix sliders positions and event handling
 

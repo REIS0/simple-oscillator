@@ -1,7 +1,6 @@
 #include <wx/wx.h>
 #include "GUI/Slider.hpp"
 #include "Oscillator.hpp"
-#include "wx/event.h"
 
 const int BUTTON_ID = 101;
 const int VOLUME_ID = 102;
